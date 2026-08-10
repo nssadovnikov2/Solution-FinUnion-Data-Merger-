@@ -1,11 +1,3 @@
-# Целевая архитектура данных (To-Be через 12 месяцев)
-
-Ниже представлена диаграмма целевой архитектуры данных объединённого банка, отражающая
-операционные и аналитические компоненты, потоки данных и управление качеством.
-
-Исходник диаграммы: [diagrams/target-architecture.puml](diagrams/target-architecture.puml)
-
-```plantuml
 @startuml
 !theme plain
 skinparam componentStyle rectangle
@@ -102,4 +94,3 @@ legend right
 endlegend
 
 @enduml
-```
